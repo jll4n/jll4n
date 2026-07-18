@@ -9,7 +9,7 @@
 
 ## À propos
 
-Je construis des systèmes bas niveau — d'un noyau d'OS écrit à la main jusqu'à des outils réseau et des pipelines CI/CD pour du logiciel industriel. J'aime comprendre ce qu'il y a sous l'abstraction : mémoire, syscalls, protocoles, binaires.
+Low level engeneering
 
 ```
 > whoami
@@ -39,7 +39,7 @@ Systems programming · OS internals · Network tooling · Industrial CI/CD
 <td width="50%" valign="top">
 
 ### 🖥️ [jOS](https://github.com/jll4n/jOS)
-Système d'exploitation écrit from scratch.
+OS made from scratch.
 
 `C` · `Rust` · `Assembly` · `Makefile` · `Linker Script`
 
@@ -47,7 +47,7 @@ Système d'exploitation écrit from scratch.
 <td width="50%" valign="top">
 
 ### 🛰️ [ncarte](https://github.com/jll4n/ncarte)
-Une réécriture de nmap en Rust, basée sur Tokio.
+nmap in Rust made w/ Tokio
 
 `Rust` · `Tokio` · `Networking`
 
@@ -57,7 +57,7 @@ Une réécriture de nmap en Rust, basée sur Tokio.
 <td width="50%" valign="top">
 
 ### ⚙️ [ioflow](https://github.com/jll4n/ioflow)
-CI/CD pour projets d'automatisme Schneider Electric (Control Expert / Unity Pro) : compilation automatique, diff structurel et VCS local pour fichiers `.stu`.
+Automation CI/CD tools
 
 `Rust` · `Axum` · `sqlx` · `PostgreSQL` · `windows-rs`
 
@@ -65,7 +65,7 @@ CI/CD pour projets d'automatisme Schneider Electric (Control Expert / Unity Pro)
 <td width="50%" valign="top">
 
 ### ➕ Et 7 autres dépôts
-Retrouve le reste sur [github.com/jll4n?tab=repositories](https://github.com/jll4n?tab=repositories)
+more : [github.com/jll4n?tab=repositories](https://github.com/jll4n?tab=repositories)
 
 </td>
 </tr>
