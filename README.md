@@ -9,7 +9,7 @@
 
 ## À propos
 
-Low level engeneering <3
+> Low level engeneering <
 
 ```
 > whoami
