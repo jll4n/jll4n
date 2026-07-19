@@ -64,7 +64,7 @@ Automation CI/CD tools
 </td>
 <td width="50%" valign="top">
 
-### ➕ Et 7 autres repos
+### ➕ And 7 others repos
 more : [github.com/jll4n?tab=repositories](https://github.com/jll4n?tab=repositories)
 
 </td>
