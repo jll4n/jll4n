@@ -59,7 +59,7 @@ nmap in Rust made w/ Tokio
 ### ⚙️ [ioflow](https://github.com/jll4n/ioflow)
 Automation CI/CD tools
 
-`Rust` · `Axum` · `sqlx` · `PostgreSQL` · `windows-rs`
+`Rust` · `Axum` · `sqlx` · `PostgreSQL` · `windows-rs` · `Continuous Integration`
 
 </td>
 <td width="50%" valign="top">
